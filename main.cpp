@@ -7,6 +7,6 @@ int sum(int a, int b, int c){
 
 int main()
 {
-    std::cout << sum(a, b) << std::endl;
+    std::cout << "Hello world!" << std::endl;
     return 0;
 }
