@@ -1,7 +1,7 @@
 int a = 18;
 int b = 20;
 
-int sum(int a, int b){
+int sum(int a, int b, int c){
     return a + b;
 }
 
